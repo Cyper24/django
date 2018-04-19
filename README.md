@@ -1,4 +1,4 @@
 # django
 test 
 
-Testing for my fisrt django blog project
+Testing for my first django blog project
